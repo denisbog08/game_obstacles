@@ -163,4 +163,3 @@ while not game_over: #Якщо гра закінчилась
 
 pygame.quit() # Завершення роботи Pygame
 sys.exit() #Завершення програми
-#g
